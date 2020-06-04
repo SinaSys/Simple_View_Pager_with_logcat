@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Simple_View_Pager_with_logcat.iml" filepath="$PROJECT_DIR$/Simple_View_Pager_with_logcat.iml" group="Simple_View_Pager_with_logcat" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Simple_View_Pager_with_logcat/app" />
+    </modules>
+  </component>
+</project>
